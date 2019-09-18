@@ -1,0 +1,32 @@
+1. 纽约共享单车地图
+https://member.citibikenyc.com/map/
+
+2. 纽约市共享单车数据公开网站
+https://www.citibikenyc.com/system-data
+
+3. 共享数据的格式说明
+https://github.com/NABSA/gbfs/blob/master/gbfs.md
+
+4. 百度地图jsAPI
+http://lbsyun.baidu.com/index.php?title=jspopular3.0
+
+5. 地点经纬度查询网站
+http://www.gpsspg.com/maps.html
+
+6. 获取数据列表
+http://gbfs.citibikenyc.com/gbfs/gbfs.json
+
+7. 站点信息数据
+https://gbfs.citibikenyc.com/gbfs/en/station_information.json
+
+8. 站点状态数据
+https://gbfs.citibikenyc.com/gbfs/en/station_status.json
+
+9. 在线JSON格式转换
+http://www.bejson.com/
+
+10. maven依赖查询和jar包下载
+https://mvnrepository.com/
+
+11. echarts网址
+https://echarts.baidu.com/
